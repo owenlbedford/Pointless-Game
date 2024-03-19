@@ -1,0 +1,4 @@
+Player 1 named o score is 100
+Player 2 named b score is 100
+Player 3 named d score is 100
+Player 4 named f score is 100

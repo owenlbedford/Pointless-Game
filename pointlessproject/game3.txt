@@ -1,0 +1,4 @@
+Player 1 named Simon score is 70
+Player 2 named Asta score is 100
+Player 3 named Bedford score is 100
+Player 4 named Anastia score is 100
